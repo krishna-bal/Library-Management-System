@@ -1,5 +1,5 @@
-# Library-Management-System
-The Library Management System is a Java-based console application designed to manage the day-to-day activities of a library. 
+# Smart Library-Management-System
+The Smart Library Management System is a Java-based console application designed to manage the day-to-day activities of a library. 
 ## Objectives
 • To automate basic library operations like adding, issuing, and returning books.
 
